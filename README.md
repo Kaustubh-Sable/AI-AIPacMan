@@ -1,5 +1,5 @@
 # AI : PacMan
-Implementing following search Algorithms for PACMAN:
+Implemented following search Algorithms for PACMAN:
 - BFS
 - DFS
 - UCS
