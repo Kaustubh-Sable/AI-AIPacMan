@@ -1,2 +1,8 @@
 # AI : PacMan
-Implementing different search Algorithms for PACMAN
+Implementing following search Algorithms for PACMAN:
+- BFS
+- DFS
+- UCS
+- A* Search
+- Corners Problem : A* Search with custom heuristics
+- FoodSearch Problem with heuristics
