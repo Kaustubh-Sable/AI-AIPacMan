@@ -1,5 +1,5 @@
 # AI : PacMan
-Implemented following search Algorithms for PACMAN:
+Implemented following search Algorithms for PACMAN in groups of two along with Komal Agarwal for the course of CSE 537 (AI):
 - BFS
 - DFS
 - UCS
